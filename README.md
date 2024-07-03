@@ -1,1 +1,1 @@
-# Trilha JS Developer - Pokedex
+* Projeto trilha JavaScript Developer - Pokedex
